@@ -1,26 +1,26 @@
 # Awesome-information-diffusion
 Online social networks have become a common tool for people's daily communication and an important way to obtain information. 
-## 1. Misinformation detection
-### 1.1 Diffusion feature-based
-### 1.2 multi-model
-## 2. Social bot detection
-### 2.1 Usre-based
-### 2.2 Content-based
-### 2.1 Graph-based
-## 3. Tracing information source
-## 4. Information diffusion model 
-### 4.1 Complex network-based 
-#### 4.1.1 SIR-based
-#### 4.1.2 IC & LT 
-### 4.2 Machine learning-based
+## :bookmark_tabs: 1. Misinformation detection
+### :balloon: 1.1 Diffusion feature-based
+### :balloon: 1.2 multi-model
+## :bookmark_tabs: 2. Social bot detection
+### :balloon: 2.1 Usre-based
+### :balloon: 2.2 Content-based
+### :balloon: 2.3 Graph-based
+## :bookmark_tabs: 3. Tracing information source
+## :bookmark_tabs: 4. Information diffusion model 
+### :balloon: 4.1 Complex network-based 
+#### :rotating_light: 4.1.1 SIR-based
+#### :rotating_light: 4.1.2 IC & LT 
+### :balloon: 4.2 Machine learning-based
 
-## 5. Information diffusion prediction 
+## :bookmark_tabs: 5. Information diffusion prediction 
 Information diffusion prediction are used to predict future diffusion paths, users and diffusion effects. In terms of the target scale of output, information diffusion predicting is broadly categorized into two types: macro-information diffusion prediction, which aims at predicting the next social group or the environment as a whole in general; and micro-information diffusion prediction, which predicts individual users in the diffusion process. We will elaborate on these two directions through specific subtasks.
 
-### 5.1 Macroscopic information diffusion prediction
+### :balloon: 5.1 Macroscopic information diffusion prediction
 At the macro level, as time goes by, the propagated content will spread more widely and more users will have different perceptions based on the content they are exposed to. Currently there has been interest in content prediction based on cascade size of graphs and popularity of content, as well as user prediction based on attitudes of user groups. Thus, there are three subtasks for macro information dissemination prediction involving cascade size prediction, popularity prediction and user attitude prediction.
 
-#### 5.1.1 Cascade size prediction
+#### :rotating_light: 5.1.1 Cascade size prediction
 More users participating in a topic indicates a higher level of interest in that topic, so predicting the number of future participants (cascade size) gives an indication of the level of interest in the topic. Cascade size prediction predicts the size of information cascades in the network by predicting the total number of users participating in the cascade.
 <table border="3" >
     <tr >
@@ -60,7 +60,7 @@ More users participating in a topic indicates a higher level of interest in that
 	</tr>
 </table>
 
-#### 5.1.2 Popularity prediction
+#### :rotating_light: 5.1.2 Popularity prediction
 In addition to the number of users in the network, information related to the content itself can also indicate the popularity of the post. Thus, popularity prediction aims to predict the popularity scores of online posts as a regression problem by analyzing multimodal dissemination of content (all comments or ratings, especially rated posts), temporal data, and user information.
 <table border="3" >
     <tr >
@@ -115,7 +115,7 @@ In addition to the number of users in the network, information related to the co
 	</tr>
 </table>
 
-#### 5.1.3 User atitudes prediction 
+#### :rotating_light: 5.1.3 User atitudes prediction 
 In addition to content prediction, harmful rumors can elicit negative emotions from users, leading to social and economic disruption. To understand these negative impacts, user attitude prediction assesses crowd attitudes during rumor propagation by modeling rumor dynamics.
 <table border="3" >
     <tr >
@@ -130,10 +130,10 @@ In addition to content prediction, harmful rumors can elicit negative emotions f
 	</tr>
 </table>
 
-### 5.2 Microscopic information diffusion prediction
+### :balloon: 5.2 Microscopic information diffusion prediction
 Micro-information diffusion predictions target the future diffusion outcomes of a particular user interacting with a piece of content at a predicted time. From the perspective of that content, the study of which user will engage with the target content is referred to as next user prediction. The study of which user will engage with the target content from that user's perspective is referred to as social influence prediction.
 
-#### 5.2.1 Next user prediction
+#### :rotating_light: 5.2.1 Next user prediction
 Observationally, users are more likely to retweet or comment on people who are following or being followed by users with the same dynamic diffusion trajectory. These following or followed relationships as well as historical diffusion records can be found in social networks and propagation networks. Thus, based on the social network and historical cascade in the diffusion graph, next user prediction aims to predict which user is likely to be the next user in the cascade to retweet or comment on the target post.
 <table border="3" >
     <tr >
@@ -228,7 +228,7 @@ Observationally, users are more likely to retweet or comment on people who are f
 	</tr>
 </table>
 
-#### 5.2.2 Social influence prediction
+#### :rotating_light: 5.2.2 Social influence prediction
 On the other hand, we usually describe social behaviors in social activities, such as citations in academic social networking sites, votes in news polling sites, and retweets or comments in social media.proposed that users' emotions, decisions, and behaviors are influenced only by their social network neighbors, without external interference. Therefore, there is a need for social influence prediction to predict changes in users' behavior towards content influenced by their neighbors.
 <table border="3" >
     <tr >
