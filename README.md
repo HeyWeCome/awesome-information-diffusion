@@ -1,8 +1,11 @@
 # Awesome-information-diffusion
 Online social networks have become a common tool for people's daily communication and an important way to obtain information. 
 ## :bookmark_tabs: 1. Misinformation detection
-### :balloon: 1.1 Diffusion feature-based
-### :balloon: 1.2 multi-model
+### :balloon: 1.1 Rumor detecction
+### :balloon: 1.2 Fake news detection
+### :balloon: 1.3 Sarcasm detection
+### :balloon: 1.4 Stance detection
+### :balloon: 1.5  Hate speech detection
 ## :bookmark_tabs: 2. Social bot detection
 ### :balloon: 2.1 Usre-based
 ### :balloon: 2.2 Content-based
@@ -247,3 +250,265 @@ On the other hand, we usually describe social behaviors in social activities, su
 		<td> <a href="https://ieeexplore.ieee.org/abstract/document/9311623">paper</a> </td>
 	</tr>
 </table>
+
+## :bookmark_tabs: 6. Datasets
+<table border="4" >
+    <tr >
+        <td width="40%" colspan="2" align="center">Task</td>
+		<td width="30%" align="center">Dataset</td>
+		<td width="10%" align="center">Year</td>
+		<td width="10%" align="center">Type</td>
+		<td width="10%" align="center">Link</td>
+	</tr>
+	<tr >
+		<td rowspan="25">Misinformation detection</td>
+		<td rowspan="11">Rumor detection</td>
+		<td> Weibo</td>
+		<td>2016</td>
+		<td>text </td>
+		<td> <a href="https://ink.library.smu.edu.sg/sis_research/4630/">reference</a> <a href="https://www.dropbox.com/scl/fi/t8irh7mg2asjcameqzoyz/rumdect.zip?rlkey=ngpfapo8ftr7zxqohbj7onqm3&e=1&dl=0">url</a></td>
+	</tr>
+ <tr >
+		<td>mediaeval2015 </td>
+		<td>2016</td>
+		<td>multi-model </td>
+		<td> <a href="http://spis.hnlat.com/scholar/redirect?url=https%3A%2F%2Firis.unitn.it%2Fbitstream%2F11572%2F121886%2F2%2FVerif2015.pdf">reference</a> <a href="https://github.com/MKLab-ITI/image-verification-corpus/tree/master/mediaeval2015">url</a></td>
+	</tr>
+	<tr >
+		<td>Twitter15_16</td>
+		<td>2017</td>
+		<td>text </td>
+		<td> <a href="https://aclanthology.org/P17-2001/">reference</a> <a href="https://catalog.ldc.upenn.edu/LDC2006T08">url</a></td>
+	</tr>
+   <tr >
+		<td>PHEME </td>
+		<td>2017</td>
+		<td>multi-model </td>
+		<td> <a href="https://link.springer.com/chapter/10.1007/978-3-319-67217-5_8">reference</a> <a href="https://github.com/azubiaga/pheme-twitter-conversation-collection">url</a></td>
+	</tr>
+	<tr >
+		<td> RumourEval-19</td>
+		<td>2019</td>
+		<td>text </td>
+		<td> <a href="https://arxiv.org/abs/1704.05972">reference</a> <a href="https://github.com/RMSnow/WWW2021?tab=readme-ov-file">url</a></td>
+	</tr>
+    <tr>
+		<td>CED-Dataset(weibo) </td>
+		<td>2021</td>
+		<td>text </td>
+		<td> <a href="https://ieeexplore.ieee.org/abstract/document/8939421">reference</a> <a href="https://github.com/thunlp/CED">url</a></td>
+	</tr>
+	<tr >
+		<td>X-FACT </td>
+		<td>2021</td>
+		<td>text </td>
+		<td> <a href="https://arxiv.org/abs/2106.09248">reference</a> <a href="https://github.com/utahnlp/x-fact">url</a></td>
+	</tr>
+    <tr >
+		<td>MNRE </td>
+		<td>2021</td>
+		<td>multi-model  </td>
+		<td> <a href="https://ieeexplore.ieee.org/abstract/document/9428274">reference</a> <a href="https://github.com/thecharm/MNRE">url</a></td>
+	</tr>
+	<tr >
+		<td>MuMiN </td>
+		<td>2022</td>
+		<td>text </td>
+		<td> <a href="https://arxiv.org/abs/2204.08143">reference</a> <a href="https://mumin-dataset.github.io/">url</a></td>
+	</tr>
+    <tr >
+		<td>IKCEST </td>
+		<td>2023</td>
+		<td>text </td>
+		<td> <a href="https://aistudio.baidu.com/datasetdetail/230144">reference</a> <a href="https://aistudio.baidu.com/datasetdetail/230144">url</a></td>
+	</tr>
+    <tr >
+		<td>SocialNet</td>
+		<td>2024</td>
+		<td>text </td>
+		<td> <a href="https://www.sciencedirect.com/science/article/pii/S0957417424008170">reference</a> <a href="https://github.com/yzhouli/SocialNet">url</a></td>
+	</tr>
+	<tr >
+		<td rowspan="8">Fake news detection</td>
+		<td>This Just In </td>
+		<td>2017</td>
+		<td>text </td>
+		<td> <a href="https://ojs.aaai.org/index.php/ICWSM/article/view/14976">reference</a> <a href="https://github.com/BenjaminDHorne/fakenewsdata1">url</a></td>
+	</tr>
+    <tr >
+		<td>Risdal Fake News Dataset </td>
+		<td>2018</td>
+		<td>multi-model </td>
+		<td> <a href="https://arxiv.org/abs/1806.00749">reference</a> <a href="https://drive.google.com/file/d/0B3e3qZpPtccsMFo5bk9Ib3VCc2c/view?resourcekey=0-_eqAfKOCKbuE-xFFCmEzyg">url</a></td>
+	</tr>
+    <tr >
+		<td>FakeNews Classification </td>
+		<td>2019</td>
+		<td>text </td>
+		<td> <a href="https://www.kaggle.com/competitions/fake-news-pair-classification-challenge">reference</a> <a href="https://www.kaggle.com/c/fake-news-pair-classification-challenge">url</a></td>
+	</tr>
+    <tr >
+		<td>FakeNews Cropus </td>
+		<td>2019</td>
+		<td>text </td>
+		<td> <a href="https://aclanthology.org/P19-2050/">reference</a> <a href="https://github.com/several27/FakeNewsCorpus">url</a></td>
+	</tr>
+    <tr >
+		<td>FakeNewsNet </td>
+		<td>2020</td>
+		<td>text </td>
+		<td> <a href="https://www.liebertpub.com/doi/abs/10.1089/big.2020.0062">reference</a> <a href="https://github.com/KaiDMML/FakeNewsNet">url</a></td>
+	</tr>
+    <tr >
+		<td>Fakeddit </td>
+		<td>2020</td>
+		<td>multi-model </td>
+		<td> <a href="https://arxiv.org/abs/1911.03854">reference</a> <a href="https://github.com/entitize/fakeddit">url</a></td>
+	</tr>
+    <tr >
+		<td>BanFakeNews </td>
+		<td>2020</td>
+		<td>text </td>
+		<td> <a href="https://arxiv.org/abs/2004.08789">reference</a> <a href="https://mumin-dataset.github.io/">url</a></td>
+	</tr>
+    <tr >
+		<td>WeFEND-AAAI20 </td>
+		<td>2020</td>
+		<td>text </td>
+		<td> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/5389">reference</a> <a href="https://github.com/yaqingwang/WeFEND-AAAI20">url</a></td>
+	</tr>
+	<tr >
+		<td rowspan="2">Sarcasm detection</td>
+		<td>T </td>
+		<td>2017</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	</tr>
+ 	<tr >
+		<td>F </td>
+		<td>2020</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	</tr>
+	<tr >
+		<td rowspan="2">Stance detection</td>
+		<td>Th</td>
+		<td>2017</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	</tr>
+ 	<tr >
+		<td>F </td>
+		<td>2020</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	</tr>
+	<tr >
+		<td rowspan="2">Hate speech detection</td>
+		<td>Thi </td>
+		<td>2017</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	</tr>
+ 	<tr >
+		<td>F </td>
+		<td>2020</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	</tr>
+	<tr >
+		<td rowspan="5">Social bot detection</td>
+		<td rowspan="1">Usre-based</td>
+		<td> Weibo</td>
+		<td>2016</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="1">Content-based</td>
+		<td> Weibo</td>
+		<td>2016</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="1">Graph-based</td>
+		<td> TwiBot-22</td>
+		<td>2022</td>
+		<td>text </td>
+		<td> <a href="https://proceedings.neurips.cc/paper_files/paper/2022/hash/e4fd610b1d77699a02df07ae97de992a-Abstract-Datasets_and_Benchmarks.html">reference</a> <a href="https://twibot22.github.io/">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="5">Tracing information source</td>
+		<td rowspan="1">Usre-based</td>
+		<td> Weibo</td>
+		<td>2016</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="1">Content-based</td>
+		<td> Weibo</td>
+		<td>2016</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="1">Graph-based</td>
+		<td> Twi</td>
+		<td>2022</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="5">Information diffusion model</td>
+		<td rowspan="1">Usre-based</td>
+		<td> Weibo</td>
+		<td>2016</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="1">Content-based</td>
+		<td> Weibo</td>
+		<td>2016</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="1">Graph-based</td>
+		<td> Twi</td>
+		<td>2022</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="5">Information diffusion prediction</td>
+		<td rowspan="1">Usre-based</td>
+		<td> Weibo</td>
+		<td>2016</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="1">Content-based</td>
+		<td> Weibo</td>
+		<td>2016</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+	<tr >
+		<td rowspan="1">Graph-based</td>
+		<td> Twi</td>
+		<td>2022</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	<tr >
+</table>
+
+    <tr >
+		<td>F </td>
+		<td>2020</td>
+		<td>text </td>
+		<td> <a href="">reference</a> <a href="">url</a></td>
+	</tr>
