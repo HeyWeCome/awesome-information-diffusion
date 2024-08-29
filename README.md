@@ -24,9 +24,9 @@ At the macro level, as time goes by, the propagated content will spread more wid
 More users participating in a topic indicates a higher level of interest in that topic, so predicting the number of future participants (cascade size) gives an indication of the level of interest in the topic. Cascade size prediction predicts the size of information cascades in the network by predicting the total number of users participating in the cascade.
 <table border="3" >
     <tr >
-        <td width="10%">Year</td>
-		<td width="80%">Paper</td>
-		<td width="10%">Link</td>
+        <td width="10%" align="center">Year</td>
+		<td width="80%" align="center">Paper</td>
+		<td width="10%" align="center">Link</td>
 	</tr>
     <tr >
         <td>2017</td>
@@ -64,9 +64,9 @@ More users participating in a topic indicates a higher level of interest in that
 In addition to the number of users in the network, information related to the content itself can also indicate the popularity of the post. Thus, popularity prediction aims to predict the popularity scores of online posts as a regression problem by analyzing multimodal dissemination of content (all comments or ratings, especially rated posts), temporal data, and user information.
 <table border="3" >
     <tr >
-        <td width="10%">Year</td>
-		<td width="80%">Paper</td>
-		<td width="10%">Link</td>
+        <td width="10%" align="center">Year</td>
+		<td width="80%" align="center">Paper</td>
+		<td width="10%" align="center">Link</td>
 	</tr>
     <tr >
         <td>2022</td>
@@ -119,9 +119,9 @@ In addition to the number of users in the network, information related to the co
 In addition to content prediction, harmful rumors can elicit negative emotions from users, leading to social and economic disruption. To understand these negative impacts, user attitude prediction assesses crowd attitudes during rumor propagation by modeling rumor dynamics.
 <table border="3" >
     <tr >
-        <td width="10%">Year</td>
-		<td width="80%">Paper</td>
-		<td width="10%">Link</td>
+        <td width="10%" align="center">Year</td>
+		<td width="80%" align="center">Paper</td>
+		<td width="10%" align="center">Link</td>
 	</tr>
     <tr >
         <td>2022</td>
@@ -137,9 +137,9 @@ Micro-information diffusion predictions target the future diffusion outcomes of 
 Observationally, users are more likely to retweet or comment on people who are following or being followed by users with the same dynamic diffusion trajectory. These following or followed relationships as well as historical diffusion records can be found in social networks and propagation networks. Thus, based on the social network and historical cascade in the diffusion graph, next user prediction aims to predict which user is likely to be the next user in the cascade to retweet or comment on the target post.
 <table border="3" >
     <tr >
-        <td width="10%">Year</td>
-		<td width="80%">Paper</td>
-		<td width="10%">Link</td>
+        <td width="10%" align="center">Year</td>
+		<td width="80%" align="center">Paper</td>
+		<td width="10%" align="center">Link</td>
 	</tr>
     <tr >
         <td>2021</td>
@@ -232,9 +232,9 @@ Observationally, users are more likely to retweet or comment on people who are f
 On the other hand, we usually describe social behaviors in social activities, such as citations in academic social networking sites, votes in news polling sites, and retweets or comments in social media.proposed that users' emotions, decisions, and behaviors are influenced only by their social network neighbors, without external interference. Therefore, there is a need for social influence prediction to predict changes in users' behavior towards content influenced by their neighbors.
 <table border="3" >
     <tr >
-        <td width="10%">Year</td>
-		<td width="80%">Paper</td>
-		<td width="10%">Link</td>
+        <td width="10%" align="center">Year</td>
+		<td width="80%" align="center">Paper</td>
+		<td width="10%" align="center">Link</td>
 	</tr>
     <tr >
         <td>2018</td>
