@@ -505,10 +505,3 @@ On the other hand, we usually describe social behaviors in social activities, su
 		<td> <a href="">reference</a> <a href="">url</a></td>
 	<tr >
 </table>
-
-    <tr >
-		<td>F </td>
-		<td>2020</td>
-		<td>text </td>
-		<td> <a href="">reference</a> <a href="">url</a></td>
-	</tr>
