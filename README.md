@@ -502,6 +502,6 @@ On the other hand, we usually describe social behaviors in social activities, su
 		<td> Twi</td>
 		<td>2022</td>
 		<td>text </td>
-		<td> <a href="">reference</a> <a href="">url</a></td>
+		<td> <a href="">reference</a> <a href="xxx">url</a></td>
 	<tr >
 </table>
