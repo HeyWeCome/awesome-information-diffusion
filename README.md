@@ -15,6 +15,11 @@ Observationally, users are more likely to retweet or comment on content shared b
 		<td width="80%" align="center">Paper</td>
 		<td width="10%" align="center">Link</td>
 	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Cheng Z, Liu Y, Zhong T, et al. Disentangling Inter-and Intra-Cascades Dynamics for Information Diffusion Prediction[J]. IEEE Transactions on Knowledge and Data Engineering, 2025.</td>
+		<td><a href="https://ieeexplore.ieee.org/document/10994219">paper</a></td>
+	</tr>
     <tr >
         <td>2025</td>
 		<td><font size=2>He W, Xiao Y, Huang M, et al. A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation[C]//Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2025, doi: 10.1145/3726302.3729883</td>
