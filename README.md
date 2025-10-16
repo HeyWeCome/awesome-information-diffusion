@@ -4,13 +4,14 @@ Online social networks have become a common tool for people's daily communicatio
 ### :balloon: 1.1 Rumor detecction
 ### :balloon: 1.2 Fake news detection
 ### :balloon: 1.3 Sarcasm detection
-### :balloon: 1.4 Stance detection
-### :balloon: 1.5  Hate speech detection
+
 ## :bookmark_tabs: 2. Social bot detection
 ### :balloon: 2.1 Usre-based
 ### :balloon: 2.2 Content-based
 ### :balloon: 2.3 Graph-based
+
 ## :bookmark_tabs: 3. Tracing information source
+
 ## :bookmark_tabs: 4. Information diffusion model 
 ### :balloon: 4.1 Complex network-based 
 #### :rotating_light: 4.1.1 SIR-based
@@ -61,6 +62,17 @@ More users participating in a topic indicates a higher level of interest in that
 		<td><font size=2>Zhu H, Yuan S, Liu X, et al. CasCIFF: A Cross-Domain Information Fusion Framework Tailored for Cascade Prediction in Social Networks[J]. Knowledge-Based Systems, 2024: 112391.</td>
 		<td><a href="https://www.sciencedirect.com/science/article/abs/pii/S0950705124010256">paper</a> <a href="https://github.com/XiaoYuan011/CasCIFF">code</a> </td>
 	</tr>
+    <tr >
+        <td>2024</td>
+		<td><font size=2>Tai Y, Yang H, He H, et al. Topic-aware Masked Attentive Network for Information Cascade Prediction[J]. ACM Transactions on Asian and Low-Resource Language Information Processing, 2024, 23(8): 1-21.</td>
+		<td><a href="https://dl.acm.org/doi/abs/10.1145/3653449">paper</a> </td>
+	</tr>
+    <tr >
+        <td>2024</td>
+		<td><font size=2>Jiao P, Yan P, Zhang J, et al. Combine the growth of cascades and impact of users for diffusion prediction[J]. IEEE Transactions on Big Data, 2024.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/10679912">paper</a> </td>
+	</tr>
+
 </table>
 
 #### :rotating_light: 5.1.2 Popularity prediction
@@ -116,21 +128,83 @@ In addition to the number of users in the network, information related to the co
 		<td><font size=2>Bao P, Yan R, Yang C. Popularity Prediction Via Modeling Temporal Dependencies on Dynamic Evolution Process[J]. IEEE Transactions on Knowledge and Data Engineering, 2024.</td>
 		<td><a href="https://ieeexplore.ieee.org/abstract/document/10549811">paper</a>   </td>
 	</tr>
-</table>
+    <tr >
+        <td>2024</td>
+		<td><font size=2>Yang Y, Fan C, Gong Y, et al. Forwarding in Social Media: Forecasting Popularity of Public Opinion With Deep Learning[J]. IEEE Transactions on Computational Social Systems, 2024.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/10737887/">paper</a>   </td>
+	</tr>
+    <tr >
+        <td>2024</td>
+		<td><font size=2>Cheng Z, Zhou F, Xu X, et al. Information cascade popularity prediction via probabilistic diffusion[J]. IEEE Transactions on Knowledge and Data Engineering, 2024.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/10684548">paper</a> <a href="https://github.com/CZ-TAO12/CasDO">code</a>  </td>
+	</tr>
+    <tr >
+        <td>2024</td>
+		<td><font size=2>Zhou M, Lin Y, Liu G, et al. Modeling personalized retweeting behaviors for multi-stage cascade popularity prediction[C]//Proceedings of IJCAI. 2024.</td>
+		<td><a href="https://www.ijcai.org/proceedings/2024/0287.pdf">paper</a>   </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Jing X, Jing Y, Lu Y, et al. CasFT: Future Trend Modeling for Information Popularity Prediction with Dynamic Cues-Driven Diffusion Models[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(11): 11906-11914.</td>
+		<td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33296">paper</a>   </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Jing X, Jing Y, Lu Y, et al. On Your Mark, Get Set, Predict! Modeling Continuous-Time Dynamics of Cascades for Information Popularity Prediction[J]. IEEE Transactions on Knowledge and Data Engineering, 2025.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/11072054">paper</a>  </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Wang B, Li Z, Xu Z, et al. Casformer: Information popularity prediction with adaptive cascade sampling and graph transformer in social networks[J]. IEEE Transactions on Big Data, 2025.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/10819659">paper</a>  </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Panigrahi B S, Seno M E, Murugesan B, et al. Integrating User Relationships and Features for Intelligence of Social Things Aware Information Diffusion Prediction[J]. IEEE Transactions on Computational Social Systems, 2025.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/11121656">paper</a>  </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Shao T, Zeng W, Zhao X. DSHCL: Dual-State Hypergraph Contrastive Learning for Information Diffusion Prediction[J]. IEEE Transactions on Knowledge and Data Engineering, 2025.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/11062122">paper</a>  </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Bao P, Yan R, Yang C. Popularity prediction via modeling temporal dependencies on dynamic evolution process[J]. IEEE Transactions on Knowledge and Data Engineering, 2024, 36(11): 6828-6838.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/10549811">paper</a> </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Jiao P, Song W, Wang Y, et al. Cascade Popularity Prediction: A Multi-View Learning Approach With Socialized Modeling[J]. IEEE Transactions on Network Science and Engineering, 2025.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/10824839">paper</a>  </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Shang J, Jia X, Li X, et al. DVCAE: Semi-Supervised Dual Variational Cascade Autoencoders for Information Popularity Prediction[J]. IEEE Transactions on Knowledge and Data Engineering, 2025.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/11087707">paper</a>  </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Wang R, Zhang Y, Meyerhenke H, et al. Online Popularity Prediction Service via Minimal Substitution Reinforcement Learning for Social Networks[J]. IEEE Transactions on Services Computing, 2025.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/11071860/">paper</a>  </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Hong D, Chen C, Li X, et al. MSR: A Multifaceted Self-Retrieval Framework for Microscopic Cascade Prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(11): 11781-11789.</td>
+		<td><a href="https://ojs.aaai.org/index.php/AAAI/article/view/33282">paper</a>  </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Li T, Tang Y, Xie R, et al. A Malicious Information Popularity Prediction Model Based on User Influence[J]. IEEE Transactions on Services Computing, 2025.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/10896826/">paper</a>  </td>
+	</tr>
+    <tr >
+        <td>2025</td>
+		<td><font size=2>Xu N, Wang X, Liu J, et al. Model Can Be Subtle: Two Important Mechanisms for Social Media Popularity Prediction[J]. ACM Transactions on Multimedia Computing, Communications and Applications, 2025, 21(2): 1-20.</td>
+		<td><a href="https://dl.acm.org/doi/abs/10.1145/3705319">paper</a>  </td>
+	</tr>
 
-#### :rotating_light: 5.1.3 User atitudes prediction 
-In addition to content prediction, harmful rumors can elicit negative emotions from users, leading to social and economic disruption. To understand these negative impacts, user attitude prediction assesses crowd attitudes during rumor propagation by modeling rumor dynamics.
-<table border="3" >
-    <tr >
-        <td width="10%" align="center">Year</td>
-		<td width="80%" align="center">Paper</td>
-		<td width="10%" align="center">Link</td>
-	</tr>
-    <tr >
-        <td>2022</td>
-		<td><font size=2>Xiao Y, Huang Z, Li Q, et al. Diffusion pixelation: A game diffusion model of rumor & anti-rumor inspired by image restoration[J]. IEEE Transactions on Knowledge and Data Engineering, 2022, 35(5): 4682-4694.</td>
-		<td><a href="https://ieeexplore.ieee.org/abstract/document/9690024">paper</a>  </td>
-	</tr>
+
 </table>
 
 ### :balloon: 5.2 Microscopic information diffusion prediction
@@ -153,6 +227,11 @@ Observationally, users are more likely to retweet or comment on people who are f
         <td>2021</td>
 		<td><font size=2>Yuan C, Li J, Zhou W, et al. DyHGCN: A dynamic heterogeneous graph convolutional network to learn users’ dynamic preferences for information diffusion prediction[C]//Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2020, Ghent, Belgium, September 14–18, 2020, Proceedings, Part III. Springer International Publishing, 2021: 347-363.</td>
 		<td><a href="https://arxiv.org/abs/2006.05169">paper</a> <a href="https://github.com/caskcsg/DyHGCN">code</a> </td>
+	</tr>
+    <tr >
+        <td>2022</td>
+		<td><font size=2>Xiao Y, Huang Z, Li Q, et al. Diffusion pixelation: A game diffusion model of rumor & anti-rumor inspired by image restoration[J]. IEEE Transactions on Knowledge and Data Engineering, 2022, 35(5): 4682-4694.</td>
+		<td><a href="https://ieeexplore.ieee.org/abstract/document/9690024">paper</a>  </td>
 	</tr>
     <tr >
         <td>2022</td>
@@ -229,6 +308,77 @@ Observationally, users are more likely to retweet or comment on people who are f
 		<td><font size=2>Jiao P, Chen H, Bao Q, et al. Enhancing Multi-Scale Diffusion Prediction via Sequential Hypergraphs and Adversarial Learning[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2024, 38(8): 8571-8581.</td>
 		<td> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/28701">paper</a> <a href="https://github.com/cspjiao/MINDS">code</a> </td>
 	</tr>
+   <tr >
+        <td>2025</td>
+		<td><font size=2>He W, Xiao Y, Mou X, et al. An Information Diffusion Prediction Model Aligning Multiple Propagation Intentions With Dynamic User Cognition[J]. IEEE Transactions on Computational Social Systems, 2025.</td>
+		<td> <a href="https://ieeexplore.ieee.org/abstract/document/11121654/">paper</a> <a href="https://github.com/HeyWeCome/BuzzBloom">code</a> </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Cheng Z, Liu Y, Zhong T, et al. Disentangling Inter-and Intra-Cascades Dynamics for Information Diffusion Prediction[J]. IEEE Transactions on Knowledge and Data Engineering, 2025.</td>
+		<td> <a href="https://ieeexplore.ieee.org/abstract/document/10994219/">paper</a> <a href="https://github.com/CZ-TAO12/MIM">code</a> </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>He W, Xiao Y, Huang M, et al. A Pattern-Driven Information Diffusion Prediction Model Based on Multisource Resonance and Cognitive Adaptation[C]//Proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval. 2025: 592-601.</td>
+		<td> <a href="https://dl.acm.org/doi/abs/10.1145/3726302.3729883">paper</a> <a href="https://github.com/HeyWeCome/BuzzBloom">code</a> </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Tao Z, Wang C, Xu K, et al. Information Diffusion Prediction With Augmented Diffusion Dependency and Multigranularity Temporal Influence[J]. IEEE Transactions on Computational Social Systems, 2025.</td>
+		<td> <a href="https://ieeexplore.ieee.org/abstract/document/10934808">paper</a>  </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Li Z, Chen X. Evolutionary Dynamics of Information Diffusion Driven by Internal Synergy and External Incentives on Social Networks[J]. IEEE Transactions on Network Science and Engineering, 2025.</td>
+		<td> <a href="https://ieeexplore.ieee.org/document/11071381">paper</a>  </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Panigrahi B S, Seno M E, Murugesan B, et al. Integrating User Relationships and Features for Intelligence of Social Things Aware Information Diffusion Prediction[J]. IEEE Transactions on Computational Social Systems, 2025.</td>
+		<td> <a href="https://ieeexplore.ieee.org/abstract/document/11121656">paper</a>  </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Tang Y, Piao J, Wang H, et al. MSA-Net: A multi-scale information diffusion model awaring user activity level[J]. ACM Transactions on the Web, 2025, 19(2): 1-23.</td>
+		<td> <a href="https://dl.acm.org/doi/full/10.1145/3711911">paper</a>  </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Zhu W, Li C, Zhang L, et al. Ghidorah: Towards Robust Multi-Scale Information Diffusion Prediction via Test-Time Training[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(12): 13464-13472.</td>
+		<td> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33470">paper</a>  </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Liu Y, Zhang P, Song W, et al. THGNets: Constrained Temporal Hypergraphs and Graph Neural Networks in Hyperbolic Space for Information Diffusion Prediction[C]//Proceedings of the AAAI Conference on Artificial Intelligence. 2025, 39(12): 12220-12228.</td>
+		<td> <a href="https://ojs.aaai.org/index.php/AAAI/article/view/33331">paper</a>  </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Feng Z, Yang Y, Huang X, et al. Efficient Sphere-Effect Based Information Diffusion Prediction on Large-scale Social Networks[C]//Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2. 2025: 615-625.</td>
+		<td> <a href="https://dl.acm.org/doi/abs/10.1145/3711896.3736925">paper</a>  </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Zhong T, Ye W, Li S, et al. DucDiff: Dual-consistent Diffusion for Uncertainty-aware Information Diffusion Prediction[J]. IEEE Transactions on Big Data, 2025.</td>
+		<td> <a href="https://ieeexplore.ieee.org/abstract/document/11123747">paper</a> <a href="https://github.com/Yewx0310/DucDiff">code</a> </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Zhong T, Ye W, Li S, et al. DucDiff: Dual-consistent Diffusion for Uncertainty-aware Information Diffusion Prediction[J]. IEEE Transactions on Big Data, 2025.</td>
+		<td> <a href="https://ieeexplore.ieee.org/abstract/document/11123747">paper</a> <a href="https://github.com/Yewx0310/DucDiff">code</a> </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Lu X, Liu M, Zhu T, et al. Adaptive Sampling-based Dynamic Graph Learning for Information Diffusion Prediction[J]. ACM Transactions on Information Systems, 2025.</td>
+		<td> <a href="https://dl.acm.org/doi/abs/10.1145/3744643">paper</a> </td>
+	</tr>
+	<tr >
+        <td>2025</td>
+		<td><font size=2>Li T, Ma W, Niu R, et al. A Prediction Model of Malicious Information Dissemination Based on User Behavior Analysis[J]. IEEE Transactions on Reliability, 2025.</td>
+		<td> <a href="https://ieeexplore.ieee.org/abstract/document/10979892">paper</a> </td>
+	</tr>
+
 </table>
 
 #### :rotating_light: 5.2.2 Social influence prediction
